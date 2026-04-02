@@ -23,6 +23,16 @@ target
 .scripts
 .direnv/
 
+# desktop
+packages/desktop
+packages/desktop-electron
+packages/slack
+packages/storybook
+packages/web
+packages/enterprise
+nix
+README.*
+
 # Local dev files
 opencode-dev
 UPCOMING_CHANGELOG.md
