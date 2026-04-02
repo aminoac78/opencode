@@ -32,6 +32,8 @@ packages/web
 packages/enterprise
 nix
 README.*
+sdks/vscode
+github
 
 # Local dev files
 opencode-dev
